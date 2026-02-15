@@ -67,7 +67,7 @@ export default function Location() {
               <div>
                 <h3 className="font-display font-bold text-xl text-chocolate mb-1">Ring Ring</h3>
                 <p className="font-sans text-text-light text-lg">
-                  519-915-9999
+                  226-787-8376
                 </p>
               </div>
             </div>
@@ -78,8 +78,6 @@ export default function Location() {
               Get Directions
             </button>
             <button className="px-6 py-4 border-2 border-chocolate/20 text-chocolate rounded-xl font-bold text-lg hover:border-chocolate hover:bg-chocolate hover:text-white transition-all duration-300">
-              UberEats
-            </button>
           </div>
           
           {/* Decorative Blob */}
