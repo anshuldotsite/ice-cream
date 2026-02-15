@@ -73,12 +73,11 @@ export default function Location() {
             </div>
           </div>
 
-          <div className="mt-12 flex flex-col sm:flex-row gap-4">
-            <button className="flex-1 py-4 bg-chocolate text-white rounded-xl font-bold text-lg shadow-lg hover:bg-strawberry hover:-translate-y-1 transition-all duration-300">
-              Get Directions
-            </button>
-            <button className="px-6 py-4 border-2 border-chocolate/20 text-chocolate rounded-xl font-bold text-lg hover:border-chocolate hover:bg-chocolate hover:text-white transition-all duration-300">
-          </div>
+   <div className="mt-12">
+  <button className="flex-1 py-4 bg-chocolate text-white rounded-xl font-bold text-lg shadow-lg hover:bg-strawberry hover:-translate-y-1 transition-all duration-300">
+    Get Directions
+  </button>
+</div>
           
           {/* Decorative Blob */}
           <div className="absolute -bottom-20 -right-20 w-64 h-64 bg-ice-vanilla rounded-full blur-3xl opacity-50 pointer-events-none group-hover:scale-110 transition-transform duration-700" />
